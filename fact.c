@@ -16,5 +16,4 @@ fact() {
         printf("Factorial of %d = %llu", n, factorial);
     }
 }
-echo "123"
-    echo "13122"
+
